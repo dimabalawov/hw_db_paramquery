@@ -1,0 +1,19 @@
+{
+  "dependencies": {
+    "express": "^4.21.0",
+    "mssql": "^11.0.1",
+    "mysql2": "^3.11.3",
+    "node": "^22.9.0",
+    "sql": "^0.78.0"
+  },
+  "name": "dbconnect",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
